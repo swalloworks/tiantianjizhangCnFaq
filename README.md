@@ -1,0 +1,2 @@
+# tiantianjizhangCnFaq
+天天记账简体中文操作手册和FAQ
