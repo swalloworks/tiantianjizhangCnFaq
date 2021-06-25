@@ -57,4 +57,4 @@ A: 同步基本上是即时(realtime)的, 但如果App长期没有开启或者�
 3. Q: **如何确认本机是否有未被上传到云端的记录？**  
     A: 从日历页面，可以打开【本机未同步记录】一览，
     如果有未被上传记录，点右上角【同步】按钮 就可以上传记录。  
-    <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/cn-cloudbook9.PNG" alt="list" width="320"/>
+    <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/cn-cloudbook8.PNG" alt="list" width="320"/>
